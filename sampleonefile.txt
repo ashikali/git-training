@@ -1,1 +1,2 @@
+Git Revert commit 1
 This is sample one text file
