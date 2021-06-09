@@ -3,3 +3,4 @@ This is sample one text file
 
 This is for testing the git merging 
 This comparision lecture
+This is stash lecture, change in File1
